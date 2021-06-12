@@ -1,4 +1,5 @@
 user-agent: *
 allow: /
+disallow: /api
 
 # todo: sitemap
